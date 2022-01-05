@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on anything and everything that can be used in my daily activities.
 - 📫 How to reach me - email: jdef_llego@hotmail.co.uk | LinkedIn - linkedin.com/in/john-llego-74b38516b | IG - @john_llego
 
+
 <!---
 john-llego/john-llego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
